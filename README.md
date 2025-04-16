@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Lavi! 💖
 
-<!--
-**lavicardosoo/lavicardosoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vindo(a) ao meu cantinho no GitHub!  
+Aqui compartilho meus projetos de programação e alguns experimentos criativos! ✨💻  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim:
+
+- 🎓 Estudante e apaixonada por tecnologia
+- 🎨 Criadora de apps e bots divertidos
+- 🎥 Produzo conteúdo de programação no TikTok [@lavinia.py](https://www.tiktok.com/@lavinia.py)
+
+---
+
+## 📊 Linguagens e Tecnologias que uso:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavicardosoo&layout=compact&theme=radical)
+
+---
+
+## 💖 Obrigada por passar por aqui!  
