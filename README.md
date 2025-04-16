@@ -8,7 +8,7 @@ Aqui compartilho meus projetos de programação e alguns experimentos criativos!
 ## 🚀 Sobre mim:
 
 - 🎓 Estudante e apaixonada por tecnologia
-- 🎨 Criadora de apps e bots divertidos
+- 🎨 Criadora de apps e sites de qualidade duvidosa
 - 🎥 Produzo conteúdo de programação no TikTok [@lavinia.py](https://www.tiktok.com/@lavinia.py)
 
 ---
