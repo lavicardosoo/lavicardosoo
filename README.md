@@ -1,15 +1,6 @@
-# 👩‍💻 Olá, eu sou a Lavi! 💖
+# 👩‍💻 Oirrr
 
-Seja muito bem-vindo(a) ao meu cantinho no GitHub!  
-Aqui compartilho meus projetos de programação e alguns experimentos criativos! ✨💻  
-
----
-
-## 🚀 Sobre mim:
-
-- 🎓 Estudante e apaixonada por tecnologia
-- 🎨 Criadora de apps e sites de qualidade duvidosa
-- 🎥 Produzo conteúdo de programação no TikTok [@lavinia.py](https://www.tiktok.com/@lavinia.py)
+Aqui compartilho meus projetos de programação e alguns experimentos criativos! ✨💻💁🏻‍♀️  
 
 ---
 
@@ -19,4 +10,4 @@ Aqui compartilho meus projetos de programação e alguns experimentos criativos!
 
 ---
 
-## 💖 Obrigada por passar por aqui!  
+## 💋 Obrigada por passar por aqui!  
