@@ -9,4 +9,4 @@ Aqui compartilho meus projetos de programação e alguns experimentos! ✨💻
 
 ---
 
-<img src="tools.png" width="200px">
+<img src="tools.png" width="600px">
